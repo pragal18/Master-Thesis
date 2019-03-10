@@ -1,0 +1,3657 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_0_8> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "0" ;
+    nif:endIndex "8" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1002_1009> a nif:Word ;
+    nif:anchorOf "version" ;
+    nif:beginIndex "1002" ;
+    nif:endIndex "1009" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1010_1013> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1010" ;
+    nif:endIndex "1013" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1014_1022> a nif:Word ;
+    nif:anchorOf "children" ;
+    nif:beginIndex "1014" ;
+    nif:endIndex "1022" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1023_1026> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1023" ;
+    nif:endIndex "1026" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1027_1031> a nif:Word ;
+    nif:anchorOf "same" ;
+    nif:beginIndex "1027" ;
+    nif:endIndex "1031" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1032_1036> a nif:Word ;
+    nif:anchorOf "year" ;
+    nif:beginIndex "1032" ;
+    nif:endIndex "1036" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1036_1037> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1036" ;
+    nif:endIndex "1037" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1038_1040> a nif:Word ;
+    nif:anchorOf "H." ;
+    nif:beginIndex "1038" ;
+    nif:endIndex "1040" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1041_1043> a nif:Word ;
+    nif:anchorOf "N." ;
+    nif:beginIndex "1041" ;
+    nif:endIndex "1043" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1044_1050> a nif:Word ;
+    nif:anchorOf "Abrams" ;
+    nif:beginIndex "1044" ;
+    nif:endIndex "1050" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1051_1060> a nif:Word ;
+    nif:anchorOf "published" ;
+    nif:beginIndex "1051" ;
+    nif:endIndex "1060" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_105_107> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "105" ;
+    nif:endIndex "107" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1061_1064> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1061" ;
+    nif:endIndex "1064" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1065_1073> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "1065" ;
+    nif:endIndex "1073" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1074_1078> a nif:Word ;
+    nif:anchorOf "Wall" ;
+    nif:beginIndex "1074" ;
+    nif:endIndex "1078" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1079_1085> a nif:Word ;
+    nif:anchorOf "Frieze" ;
+    nif:beginIndex "1079" ;
+    nif:endIndex "1085" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1085_1086> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1085" ;
+    nif:endIndex "1086" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1087_1088> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1087" ;
+    nif:endIndex "1088" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1089_1097> a nif:Word ;
+    nif:anchorOf "fold-out" ;
+    nif:beginIndex "1089" ;
+    nif:endIndex "1097" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_108_109> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "108" ;
+    nif:endIndex "109" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1098_1102> a nif:Word ;
+    nif:anchorOf "over" ;
+    nif:beginIndex "1098" ;
+    nif:endIndex "1102" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1103_1105> a nif:Word ;
+    nif:anchorOf "26" ;
+    nif:beginIndex "1103" ;
+    nif:endIndex "1105" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1106_1110> a nif:Word ;
+    nif:anchorOf "feet" ;
+    nif:beginIndex "1106" ;
+    nif:endIndex "1110" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_110_115> a nif:Word ;
+    nif:anchorOf "tenth" ;
+    nif:beginIndex "110" ;
+    nif:endIndex "115" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1111_1113> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1111" ;
+    nif:endIndex "1113" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1114_1120> a nif:Word ;
+    nif:anchorOf "length" ;
+    nif:beginIndex "1114" ;
+    nif:endIndex "1120" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1120_1121> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1120" ;
+    nif:endIndex "1121" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1122_1124> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1122" ;
+    nif:endIndex "1124" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1125_1130> a nif:Word ;
+    nif:anchorOf "which" ;
+    nif:beginIndex "1125" ;
+    nif:endIndex "1130" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Wh-Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WDT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1131_1134> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1131" ;
+    nif:endIndex "1134" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1135_1141> a nif:Word ;
+    nif:anchorOf "author" ;
+    nif:beginIndex "1135" ;
+    nif:endIndex "1141" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1142_1149> a nif:Word ;
+    nif:anchorOf "created" ;
+    nif:beginIndex "1142" ;
+    nif:endIndex "1149" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1150_1153> a nif:Word ;
+    nif:anchorOf "new" ;
+    nif:beginIndex "1150" ;
+    nif:endIndex "1153" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1154_1161> a nif:Word ;
+    nif:anchorOf "riddles" ;
+    nif:beginIndex "1154" ;
+    nif:endIndex "1161" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1162_1165> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1162" ;
+    nif:endIndex "1165" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1166_1170> a nif:Word ;
+    nif:anchorOf "each" ;
+    nif:beginIndex "1166" ;
+    nif:endIndex "1170" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_116_127> a nif:Word ;
+    nif:anchorOf "anniversary" ;
+    nif:beginIndex "116" ;
+    nif:endIndex "127" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1171_1177> a nif:Word ;
+    nif:anchorOf "letter" ;
+    nif:beginIndex "1171" ;
+    nif:endIndex "1177" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1177_1178> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1177" ;
+    nif:endIndex "1178" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1179_1182> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1179" ;
+    nif:endIndex "1182" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1183_1188> a nif:Word ;
+    nif:anchorOf "Great" ;
+    nif:beginIndex "1183" ;
+    nif:endIndex "1188" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1189_1197> a nif:Word ;
+    nif:anchorOf "American" ;
+    nif:beginIndex "1189" ;
+    nif:endIndex "1197" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1198_1204> a nif:Word ;
+    nif:anchorOf "Puzzle" ;
+    nif:beginIndex "1198" ;
+    nif:endIndex "1204" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1205_1212> a nif:Word ;
+    nif:anchorOf "Factory" ;
+    nif:beginIndex "1205" ;
+    nif:endIndex "1212" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1213_1220> a nif:Word ;
+    nif:anchorOf "created" ;
+    nif:beginIndex "1213" ;
+    nif:endIndex "1220" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1221_1222> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1221" ;
+    nif:endIndex "1222" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1223_1232> a nif:Word ;
+    nif:anchorOf "300-piece" ;
+    nif:beginIndex "1223" ;
+    nif:endIndex "1232" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1233_1239> a nif:Word ;
+    nif:anchorOf "jigsaw" ;
+    nif:beginIndex "1233" ;
+    nif:endIndex "1239" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1240_1246> a nif:Word ;
+    nif:anchorOf "puzzle" ;
+    nif:beginIndex "1240" ;
+    nif:endIndex "1246" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1247_1252> a nif:Word ;
+    nif:anchorOf "based" ;
+    nif:beginIndex "1247" ;
+    nif:endIndex "1252" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1253_1255> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "1253" ;
+    nif:endIndex "1255" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1256_1259> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1256" ;
+    nif:endIndex "1259" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1260_1264> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "1260" ;
+    nif:endIndex "1264" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1264_1266> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1264" ;
+    nif:endIndex "1266" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1267_1272> a nif:Word ;
+    nif:anchorOf "cover" ;
+    nif:beginIndex "1267" ;
+    nif:endIndex "1272" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1272_1273> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1272" ;
+    nif:endIndex "1273" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1275_1286> a nif:Word ;
+    nif:anchorOf "Adaptations" ;
+    nif:beginIndex "1275" ;
+    nif:endIndex "1286" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1287_1288> a nif:Word ;
+    nif:anchorOf "A" ;
+    nif:beginIndex "1287" ;
+    nif:endIndex "1288" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1289_1299> a nif:Word ;
+    nif:anchorOf "television" ;
+    nif:beginIndex "1289" ;
+    nif:endIndex "1299" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_128_135> a nif:Word ;
+    nif:anchorOf "edition" ;
+    nif:beginIndex "128" ;
+    nif:endIndex "135" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_12_14> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "12" ;
+    nif:endIndex "14" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1300_1306> a nif:Word ;
+    nif:anchorOf "series" ;
+    nif:beginIndex "1300" ;
+    nif:endIndex "1306" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1307_1310> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "1307" ;
+    nif:endIndex "1310" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1311_1315> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "1311" ;
+    nif:endIndex "1315" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1316_1323> a nif:Word ;
+    nif:anchorOf "created" ;
+    nif:beginIndex "1316" ;
+    nif:endIndex "1323" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1323_1324> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1323" ;
+    nif:endIndex "1324" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1325_1330> a nif:Word ;
+    nif:anchorOf "based" ;
+    nif:beginIndex "1325" ;
+    nif:endIndex "1330" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1331_1333> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "1331" ;
+    nif:endIndex "1333" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1334_1337> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1334" ;
+    nif:endIndex "1337" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1338_1342> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "1338" ;
+    nif:endIndex "1342" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1342_1343> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1342" ;
+    nif:endIndex "1343" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1344_1349> a nif:Word ;
+    nif:anchorOf "which" ;
+    nif:beginIndex "1344" ;
+    nif:endIndex "1349" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Wh-Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#WDT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1350_1354> a nif:Word ;
+    nif:anchorOf "airs" ;
+    nif:beginIndex "1350" ;
+    nif:endIndex "1354" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1355_1357> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1355" ;
+    nif:endIndex "1357" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1358_1361> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1358" ;
+    nif:endIndex "1361" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1362_1368> a nif:Word ;
+    nif:anchorOf "United" ;
+    nif:beginIndex "1362" ;
+    nif:endIndex "1368" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1369_1375> a nif:Word ;
+    nif:anchorOf "States" ;
+    nif:beginIndex "1369" ;
+    nif:endIndex "1375" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNPS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_136_138> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "136" ;
+    nif:endIndex "138" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1375_1376> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1375" ;
+    nif:endIndex "1376" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1377_1386> a nif:Word ;
+    nif:anchorOf "Australia" ;
+    nif:beginIndex "1377" ;
+    nif:endIndex "1386" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1386_1387> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1386" ;
+    nif:endIndex "1387" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1388_1394> a nif:Word ;
+    nif:anchorOf "Canada" ;
+    nif:beginIndex "1388" ;
+    nif:endIndex "1394" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1394_1395> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1394" ;
+    nif:endIndex "1395" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1396_1399> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1396" ;
+    nif:endIndex "1399" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_139_143> a nif:Word ;
+    nif:anchorOf "1996" ;
+    nif:beginIndex "139" ;
+    nif:endIndex "143" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1400_1406> a nif:Word ;
+    nif:anchorOf "United" ;
+    nif:beginIndex "1400" ;
+    nif:endIndex "1406" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1407_1414> a nif:Word ;
+    nif:anchorOf "Kingdom" ;
+    nif:beginIndex "1407" ;
+    nif:endIndex "1414" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1414_1415> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1414" ;
+    nif:endIndex "1415" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1416_1422> a nif:Word ;
+    nif:anchorOf "Norway" ;
+    nif:beginIndex "1416" ;
+    nif:endIndex "1422" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1423_1426> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1423" ;
+    nif:endIndex "1426" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1427_1436> a nif:Word ;
+    nif:anchorOf "Venezuela" ;
+    nif:beginIndex "1427" ;
+    nif:endIndex "1436" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1436_1437> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1436" ;
+    nif:endIndex "1437" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1438_1440> a nif:Word ;
+    nif:anchorOf "It" ;
+    nif:beginIndex "1438" ;
+    nif:endIndex "1440" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_143_144> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "143" ;
+    nif:endIndex "144" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1441_1445> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "1441" ;
+    nif:endIndex "1445" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1446_1450> a nif:Word ;
+    nif:anchorOf "airs" ;
+    nif:beginIndex "1446" ;
+    nif:endIndex "1450" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1451_1453> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "1451" ;
+    nif:endIndex "1453" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1454_1461> a nif:Word ;
+    nif:anchorOf "Minimax" ;
+    nif:beginIndex "1454" ;
+    nif:endIndex "1461" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_145_148> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "145" ;
+    nif:endIndex "148" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1462_1465> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1462" ;
+    nif:endIndex "1465" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1466_1469> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1466" ;
+    nif:endIndex "1469" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1470_1475> a nif:Word ;
+    nif:anchorOf "Czech" ;
+    nif:beginIndex "1470" ;
+    nif:endIndex "1475" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1476_1484> a nif:Word ;
+    nif:anchorOf "Republic" ;
+    nif:beginIndex "1476" ;
+    nif:endIndex "1484" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1485_1488> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1485" ;
+    nif:endIndex "1488" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1489_1497> a nif:Word ;
+    nif:anchorOf "Slovakia" ;
+    nif:beginIndex "1489" ;
+    nif:endIndex "1497" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1497_1498> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1497" ;
+    nif:endIndex "1498" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1499_1502> a nif:Word ;
+    nif:anchorOf "And" ;
+    nif:beginIndex "1499" ;
+    nif:endIndex "1502" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_149_150> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "149" ;
+    nif:endIndex "150" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1503_1511> a nif:Word ;
+    nif:anchorOf "recently" ;
+    nif:beginIndex "1503" ;
+    nif:endIndex "1511" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1512_1514> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1512" ;
+    nif:endIndex "1514" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1515_1521> a nif:Word ;
+    nif:anchorOf "Greece" ;
+    nif:beginIndex "1515" ;
+    nif:endIndex "1521" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_151_155> a nif:Word ;
+    nif:anchorOf "25th" ;
+    nif:beginIndex "151" ;
+    nif:endIndex "155" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1522_1524> a nif:Word ;
+    nif:anchorOf "on" ;
+    nif:beginIndex "1522" ;
+    nif:endIndex "1524" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1525_1528> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1525" ;
+    nif:endIndex "1528" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1529_1536> a nif:Word ;
+    nif:anchorOf "channel" ;
+    nif:beginIndex "1529" ;
+    nif:endIndex "1536" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1537_1540> a nif:Word ;
+    nif:anchorOf "ET1" ;
+    nif:beginIndex "1537" ;
+    nif:endIndex "1540" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1540_1541> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1540" ;
+    nif:endIndex "1541" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1542_1545> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1542" ;
+    nif:endIndex "1545" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1546_1556> a nif:Word ;
+    nif:anchorOf "Australian" ;
+    nif:beginIndex "1546" ;
+    nif:endIndex "1556" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1557_1565> a nif:Word ;
+    nif:anchorOf "Children" ;
+    nif:beginIndex "1557" ;
+    nif:endIndex "1565" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1565_1567> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1565" ;
+    nif:endIndex "1567" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1568_1578> a nif:Word ;
+    nif:anchorOf "Television" ;
+    nif:beginIndex "1568" ;
+    nif:endIndex "1578" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_156_167> a nif:Word ;
+    nif:anchorOf "anniversary" ;
+    nif:beginIndex "156" ;
+    nif:endIndex "167" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1579_1589> a nif:Word ;
+    nif:anchorOf "Foundation" ;
+    nif:beginIndex "1579" ;
+    nif:endIndex "1589" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1590_1598> a nif:Word ;
+    nif:anchorOf "released" ;
+    nif:beginIndex "1590" ;
+    nif:endIndex "1598" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1599_1600> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1599" ;
+    nif:endIndex "1600" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_15_26> a nif:Word ;
+    nif:anchorOf "illustrated" ;
+    nif:beginIndex "15" ;
+    nif:endIndex "26" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1601_1609> a nif:Word ;
+    nif:anchorOf "teaching" ;
+    nif:beginIndex "1601" ;
+    nif:endIndex "1609" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1610_1618> a nif:Word ;
+    nif:anchorOf "resource" ;
+    nif:beginIndex "1610" ;
+    nif:endIndex "1618" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1619_1626> a nif:Word ;
+    nif:anchorOf "DVD-ROM" ;
+    nif:beginIndex "1619" ;
+    nif:endIndex "1626" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1627_1629> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1627" ;
+    nif:endIndex "1629" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1630_1634> a nif:Word ;
+    nif:anchorOf "2011" ;
+    nif:beginIndex "1630" ;
+    nif:endIndex "1634" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1635_1637> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "1635" ;
+    nif:endIndex "1637" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#TO> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1638_1647> a nif:Word ;
+    nif:anchorOf "accompany" ;
+    nif:beginIndex "1638" ;
+    nif:endIndex "1647" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1648_1651> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1648" ;
+    nif:endIndex "1651" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1652_1654> a nif:Word ;
+    nif:anchorOf "TV" ;
+    nif:beginIndex "1652" ;
+    nif:endIndex "1654" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1655_1661> a nif:Word ;
+    nif:anchorOf "series" ;
+    nif:beginIndex "1655" ;
+    nif:endIndex "1661" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1662_1666> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "1662" ;
+    nif:endIndex "1666" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1667_1675> a nif:Word ;
+    nif:anchorOf "teaching" ;
+    nif:beginIndex "1667" ;
+    nif:endIndex "1675" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1676_1680> a nif:Word ;
+    nif:anchorOf "aids" ;
+    nif:beginIndex "1676" ;
+    nif:endIndex "1680" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1681_1684> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1681" ;
+    nif:endIndex "1684" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1685_1694> a nif:Word ;
+    nif:anchorOf "classroom" ;
+    nif:beginIndex "1685" ;
+    nif:endIndex "1694" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_168_175> a nif:Word ;
+    nif:anchorOf "edition" ;
+    nif:beginIndex "168" ;
+    nif:endIndex "175" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1695_1698> a nif:Word ;
+    nif:anchorOf "use" ;
+    nif:beginIndex "1695" ;
+    nif:endIndex "1698" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1698_1699> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1698" ;
+    nif:endIndex "1699" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1700_1702> a nif:Word ;
+    nif:anchorOf "In" ;
+    nif:beginIndex "1700" ;
+    nif:endIndex "1702" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1703_1707> a nif:Word ;
+    nif:anchorOf "2010" ;
+    nif:beginIndex "1703" ;
+    nif:endIndex "1707" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1707_1708> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "1707" ;
+    nif:endIndex "1708" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1709_1712> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1709" ;
+    nif:endIndex "1712" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1713_1717> a nif:Word ;
+    nif:anchorOf "Base" ;
+    nif:beginIndex "1713" ;
+    nif:endIndex "1717" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1718_1725> a nif:Word ;
+    nif:anchorOf "Factory" ;
+    nif:beginIndex "1718" ;
+    nif:endIndex "1725" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1726_1729> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1726" ;
+    nif:endIndex "1729" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1730_1738> a nif:Word ;
+    nif:anchorOf "AppBooks" ;
+    nif:beginIndex "1730" ;
+    nif:endIndex "1738" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1739_1747> a nif:Word ;
+    nif:anchorOf "released" ;
+    nif:beginIndex "1739" ;
+    nif:endIndex "1747" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1748_1756> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "1748" ;
+    nif:endIndex "1756" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1757_1759> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "1757" ;
+    nif:endIndex "1759" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1760_1762> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "1760" ;
+    nif:endIndex "1762" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1763_1774> a nif:Word ;
+    nif:anchorOf "application" ;
+    nif:beginIndex "1763" ;
+    nif:endIndex "1774" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_176_178> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "176" ;
+    nif:endIndex "178" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1775_1778> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1775" ;
+    nif:endIndex "1778" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1779_1783> a nif:Word ;
+    nif:anchorOf "iPad" ;
+    nif:beginIndex "1779" ;
+    nif:endIndex "1783" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1784_1787> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "1784" ;
+    nif:endIndex "1787" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1788_1799> a nif:Word ;
+    nif:anchorOf "iPhone/iPod" ;
+    nif:beginIndex "1788" ;
+    nif:endIndex "1799" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_179_183> a nif:Word ;
+    nif:anchorOf "2012" ;
+    nif:beginIndex "179" ;
+    nif:endIndex "183" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1800_1805> a nif:Word ;
+    nif:anchorOf "Touch" ;
+    nif:beginIndex "1800" ;
+    nif:endIndex "1805" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1805_1806> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1805" ;
+    nif:endIndex "1806" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1808_1814> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "1808" ;
+    nif:endIndex "1814" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1815_1823> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "1815" ;
+    nif:endIndex "1823" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1824_1827> a nif:Word ;
+    nif:anchorOf "won" ;
+    nif:beginIndex "1824" ;
+    nif:endIndex "1827" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1828_1831> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1828" ;
+    nif:endIndex "1831" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1832_1837> a nif:Word ;
+    nif:anchorOf "Young" ;
+    nif:beginIndex "1832" ;
+    nif:endIndex "1837" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1838_1848> a nif:Word ;
+    nif:anchorOf "Australian" ;
+    nif:beginIndex "1838" ;
+    nif:endIndex "1848" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_183_184> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "183" ;
+    nif:endIndex "184" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1848_1850> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1848" ;
+    nif:endIndex "1850" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1851_1855> a nif:Word ;
+    nif:anchorOf "Best" ;
+    nif:beginIndex "1851" ;
+    nif:endIndex "1855" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1856_1860> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "1856" ;
+    nif:endIndex "1860" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_185_189> a nif:Word ;
+    nif:anchorOf "Over" ;
+    nif:beginIndex "185" ;
+    nif:endIndex "189" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1861_1866> a nif:Word ;
+    nif:anchorOf "Award" ;
+    nif:beginIndex "1861" ;
+    nif:endIndex "1866" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1867_1869> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "1867" ;
+    nif:endIndex "1869" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1870_1874> a nif:Word ;
+    nif:anchorOf "1987" ;
+    nif:beginIndex "1870" ;
+    nif:endIndex "1874" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1875_1878> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "1875" ;
+    nif:endIndex "1878" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1879_1883> a nif:Word ;
+    nif:anchorOf "Best" ;
+    nif:beginIndex "1879" ;
+    nif:endIndex "1883" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1884_1891> a nif:Word ;
+    nif:anchorOf "Picture" ;
+    nif:beginIndex "1884" ;
+    nif:endIndex "1891" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1892_1897> a nif:Word ;
+    nif:anchorOf "Story" ;
+    nif:beginIndex "1892" ;
+    nif:endIndex "1897" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1898_1902> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "1898" ;
+    nif:endIndex "1902" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1902_1903> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "1902" ;
+    nif:endIndex "1903" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1904_1907> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "1904" ;
+    nif:endIndex "1907" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1908_1916> a nif:Word ;
+    nif:anchorOf "Children" ;
+    nif:beginIndex "1908" ;
+    nif:endIndex "1916" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_190_195> a nif:Word ;
+    nif:anchorOf "three" ;
+    nif:beginIndex "190" ;
+    nif:endIndex "195" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1916_1918> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "1916" ;
+    nif:endIndex "1918" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1919_1923> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "1919" ;
+    nif:endIndex "1923" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1924_1931> a nif:Word ;
+    nif:anchorOf "Council" ;
+    nif:beginIndex "1924" ;
+    nif:endIndex "1931" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1932_1934> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1932" ;
+    nif:endIndex "1934" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1935_1944> a nif:Word ;
+    nif:anchorOf "Australia" ;
+    nif:beginIndex "1935" ;
+    nif:endIndex "1944" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1945_1955> a nif:Word ;
+    nif:anchorOf "designated" ;
+    nif:beginIndex "1945" ;
+    nif:endIndex "1955" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1956_1964> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "1956" ;
+    nif:endIndex "1964" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1965_1966> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "1965" ;
+    nif:endIndex "1966" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1967_1971> a nif:Word ;
+    nif:anchorOf "1987" ;
+    nif:beginIndex "1967" ;
+    nif:endIndex "1971" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_196_203> a nif:Word ;
+    nif:anchorOf "million" ;
+    nif:beginIndex "196" ;
+    nif:endIndex "203" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1972_1979> a nif:Word ;
+    nif:anchorOf "Picture" ;
+    nif:beginIndex "1972" ;
+    nif:endIndex "1979" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1980_1984> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "1980" ;
+    nif:endIndex "1984" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1985_1987> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "1985" ;
+    nif:endIndex "1987" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1988_1991> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "1988" ;
+    nif:endIndex "1991" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1992_1996> a nif:Word ;
+    nif:anchorOf "Year" ;
+    nif:beginIndex "1992" ;
+    nif:endIndex "1996" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1996_1997> a nif:Word ;
+    nif:anchorOf ":" ;
+    nif:beginIndex "1996" ;
+    nif:endIndex "1997" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#:> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_1998_2004> a nif:Word ;
+    nif:anchorOf "Honour" ;
+    nif:beginIndex "1998" ;
+    nif:endIndex "2004" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2005_2009> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "2005" ;
+    nif:endIndex "2009" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2009_2010> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "2009" ;
+    nif:endIndex "2010" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2011_2014> a nif:Word ;
+    nif:anchorOf "Kid" ;
+    nif:beginIndex "2011" ;
+    nif:endIndex "2014" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2014_2016> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "2014" ;
+    nif:endIndex "2016" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2017_2020> a nif:Word ;
+    nif:anchorOf "Own" ;
+    nif:beginIndex "2017" ;
+    nif:endIndex "2020" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2021_2031> a nif:Word ;
+    nif:anchorOf "Australian" ;
+    nif:beginIndex "2021" ;
+    nif:endIndex "2031" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2032_2042> a nif:Word ;
+    nif:anchorOf "Literature" ;
+    nif:beginIndex "2032" ;
+    nif:endIndex "2042" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2043_2049> a nif:Word ;
+    nif:anchorOf "Awards" ;
+    nif:beginIndex "2043" ;
+    nif:endIndex "2049" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_204_210> a nif:Word ;
+    nif:anchorOf "copies" ;
+    nif:beginIndex "204" ;
+    nif:endIndex "210" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2050_2055> a nif:Word ;
+    nif:anchorOf "named" ;
+    nif:beginIndex "2050" ;
+    nif:endIndex "2055" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2056_2064> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "2056" ;
+    nif:endIndex "2064" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2065_2068> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "2065" ;
+    nif:endIndex "2068" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2069_2073> a nif:Word ;
+    nif:anchorOf "1988" ;
+    nif:beginIndex "2069" ;
+    nif:endIndex "2073" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2074_2081> a nif:Word ;
+    nif:anchorOf "Picture" ;
+    nif:beginIndex "2074" ;
+    nif:endIndex "2081" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2082_2086> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "2082" ;
+    nif:endIndex "2086" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2087_2093> a nif:Word ;
+    nif:anchorOf "Winner" ;
+    nif:beginIndex "2087" ;
+    nif:endIndex "2093" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2093_2094> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "2093" ;
+    nif:endIndex "2094" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2096_2106> a nif:Word ;
+    nif:anchorOf "References" ;
+    nif:beginIndex "2096" ;
+    nif:endIndex "2106" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2109_2117> a nif:Word ;
+    nif:anchorOf "External" ;
+    nif:beginIndex "2109" ;
+    nif:endIndex "2117" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2118_2123> a nif:Word ;
+    nif:anchorOf "links" ;
+    nif:beginIndex "2118" ;
+    nif:endIndex "2123" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_211_215> a nif:Word ;
+    nif:anchorOf "have" ;
+    nif:beginIndex "211" ;
+    nif:endIndex "215" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2125_2126> a nif:Word ;
+    nif:anchorOf "*" ;
+    nif:beginIndex "2125" ;
+    nif:endIndex "2126" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2128_2134> a nif:Word ;
+    nif:anchorOf "Graeme" ;
+    nif:beginIndex "2128" ;
+    nif:endIndex "2134" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2135_2139> a nif:Word ;
+    nif:anchorOf "Base" ;
+    nif:beginIndex "2135" ;
+    nif:endIndex "2139" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2139_2141> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "2139" ;
+    nif:endIndex "2141" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2142_2150> a nif:Word ;
+    nif:anchorOf "official" ;
+    nif:beginIndex "2142" ;
+    nif:endIndex "2150" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2151_2158> a nif:Word ;
+    nif:anchorOf "website" ;
+    nif:beginIndex "2151" ;
+    nif:endIndex "2158" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2160_2161> a nif:Word ;
+    nif:anchorOf "*" ;
+    nif:beginIndex "2160" ;
+    nif:endIndex "2161" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2163_2171> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "2163" ;
+    nif:endIndex "2171" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_216_220> a nif:Word ;
+    nif:anchorOf "been" ;
+    nif:beginIndex "216" ;
+    nif:endIndex "220" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2172_2175> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "2172" ;
+    nif:endIndex "2175" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2176_2186> a nif:Word ;
+    nif:anchorOf "Television" ;
+    nif:beginIndex "2176" ;
+    nif:endIndex "2186" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2187_2193> a nif:Word ;
+    nif:anchorOf "Series" ;
+    nif:beginIndex "2187" ;
+    nif:endIndex "2193" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2194_2202> a nif:Word ;
+    nif:anchorOf "official" ;
+    nif:beginIndex "2194" ;
+    nif:endIndex "2202" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2203_2210> a nif:Word ;
+    nif:anchorOf "website" ;
+    nif:beginIndex "2203" ;
+    nif:endIndex "2210" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2212_2213> a nif:Word ;
+    nif:anchorOf "*" ;
+    nif:beginIndex "2212" ;
+    nif:endIndex "2213" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2215_2216> a nif:Word ;
+    nif:anchorOf "A" ;
+    nif:beginIndex "2215" ;
+    nif:endIndex "2216" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2217_2225> a nif:Word ;
+    nif:anchorOf "Learning" ;
+    nif:beginIndex "2217" ;
+    nif:endIndex "2225" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_221_225> a nif:Word ;
+    nif:anchorOf "sold" ;
+    nif:beginIndex "221" ;
+    nif:endIndex "225" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2226_2230> a nif:Word ;
+    nif:anchorOf "Time" ;
+    nif:beginIndex "2226" ;
+    nif:endIndex "2230" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2231_2239> a nif:Word ;
+    nif:anchorOf "activity" ;
+    nif:beginIndex "2231" ;
+    nif:endIndex "2239" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2240_2245> a nif:Word ;
+    nif:anchorOf "guide" ;
+    nif:beginIndex "2240" ;
+    nif:endIndex "2245" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2246_2249> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "2246" ;
+    nif:endIndex "2249" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2250_2258> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "2250" ;
+    nif:endIndex "2258" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2259_2266> a nif:Word ;
+    nif:anchorOf "created" ;
+    nif:beginIndex "2259" ;
+    nif:endIndex "2266" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_225_226> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "225" ;
+    nif:endIndex "226" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2267_2269> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "2267" ;
+    nif:endIndex "2269" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2270_2273> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "2270" ;
+    nif:endIndex "2273" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2274_2280> a nif:Word ;
+    nif:anchorOf "Little" ;
+    nif:beginIndex "2274" ;
+    nif:endIndex "2280" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_227_228> a nif:Word ;
+    nif:anchorOf "A" ;
+    nif:beginIndex "227" ;
+    nif:endIndex "228" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2281_2284> a nif:Word ;
+    nif:anchorOf "Big" ;
+    nif:beginIndex "2281" ;
+    nif:endIndex "2284" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2285_2289> a nif:Word ;
+    nif:anchorOf "Book" ;
+    nif:beginIndex "2285" ;
+    nif:endIndex "2289" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_2290_2294> a nif:Word ;
+    nif:anchorOf "Club" ;
+    nif:beginIndex "2290" ;
+    nif:endIndex "2294" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_229_236> a nif:Word ;
+    nif:anchorOf "special" ;
+    nif:beginIndex "229" ;
+    nif:endIndex "236" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_237_245> a nif:Word ;
+    nif:anchorOf "numbered" ;
+    nif:beginIndex "237" ;
+    nif:endIndex "245" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_246_249> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "246" ;
+    nif:endIndex "249" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_250_256> a nif:Word ;
+    nif:anchorOf "signed" ;
+    nif:beginIndex "250" ;
+    nif:endIndex "256" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_257_268> a nif:Word ;
+    nif:anchorOf "anniversary" ;
+    nif:beginIndex "257" ;
+    nif:endIndex "268" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_269_276> a nif:Word ;
+    nif:anchorOf "edition" ;
+    nif:beginIndex "269" ;
+    nif:endIndex "276" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_277_280> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "277" ;
+    nif:endIndex "280" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_27_35> a nif:Word ;
+    nif:anchorOf "children" ;
+    nif:beginIndex "27" ;
+    nif:endIndex "35" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_281_285> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "281" ;
+    nif:endIndex "285" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_286_295> a nif:Word ;
+    nif:anchorOf "published" ;
+    nif:beginIndex "286" ;
+    nif:endIndex "295" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_296_298> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "296" ;
+    nif:endIndex "298" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_299_303> a nif:Word ;
+    nif:anchorOf "1996" ;
+    nif:beginIndex "299" ;
+    nif:endIndex "303" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_303_304> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "303" ;
+    nif:endIndex "304" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_305_309> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "305" ;
+    nif:endIndex "309" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_310_312> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "310" ;
+    nif:endIndex "312" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_313_321> a nif:Word ;
+    nif:anchorOf "embossed" ;
+    nif:beginIndex "313" ;
+    nif:endIndex "321" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_322_326> a nif:Word ;
+    nif:anchorOf "gold" ;
+    nif:beginIndex "322" ;
+    nif:endIndex "326" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_327_333> a nif:Word ;
+    nif:anchorOf "jacket" ;
+    nif:beginIndex "327" ;
+    nif:endIndex "333" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_333_334> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "333" ;
+    nif:endIndex "334" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_336_344> a nif:Word ;
+    nif:anchorOf "Synopsis" ;
+    nif:beginIndex "336" ;
+    nif:endIndex "344" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_345_353> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "345" ;
+    nif:endIndex "353" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_354_356> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "354" ;
+    nif:endIndex "356" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_357_359> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "357" ;
+    nif:endIndex "359" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_35_37> a nif:Word ;
+    nif:anchorOf "'s" ;
+    nif:beginIndex "35" ;
+    nif:endIndex "37" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#POS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_360_372> a nif:Word ;
+    nif:anchorOf "alliterative" ;
+    nif:beginIndex "360" ;
+    nif:endIndex "372" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_373_381> a nif:Word ;
+    nif:anchorOf "alphabet" ;
+    nif:beginIndex "373" ;
+    nif:endIndex "381" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_382_386> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "382" ;
+    nif:endIndex "386" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_387_390> a nif:Word ;
+    nif:anchorOf "and" ;
+    nif:beginIndex "387" ;
+    nif:endIndex "390" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CC> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_38_42> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "38" ;
+    nif:endIndex "42" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_391_399> a nif:Word ;
+    nif:anchorOf "contains" ;
+    nif:beginIndex "391" ;
+    nif:endIndex "399" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_400_410> a nif:Word ;
+    nif:anchorOf "twenty-six" ;
+    nif:beginIndex "400" ;
+    nif:endIndex "410" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_411_424> a nif:Word ;
+    nif:anchorOf "illustrations" ;
+    nif:beginIndex "411" ;
+    nif:endIndex "424" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_424_425> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "424" ;
+    nif:endIndex "425" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_426_429> a nif:Word ;
+    nif:anchorOf "one" ;
+    nif:beginIndex "426" ;
+    nif:endIndex "429" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_430_433> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "430" ;
+    nif:endIndex "433" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_434_438> a nif:Word ;
+    nif:anchorOf "each" ;
+    nif:beginIndex "434" ;
+    nif:endIndex "438" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_439_445> a nif:Word ;
+    nif:anchorOf "letter" ;
+    nif:beginIndex "439" ;
+    nif:endIndex "445" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_43_45> a nif:Word ;
+    nif:anchorOf "by" ;
+    nif:beginIndex "43" ;
+    nif:endIndex "45" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_446_448> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "446" ;
+    nif:endIndex "448" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_449_452> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "449" ;
+    nif:endIndex "452" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_453_461> a nif:Word ;
+    nif:anchorOf "alphabet" ;
+    nif:beginIndex "453" ;
+    nif:endIndex "461" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_461_462> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "461" ;
+    nif:endIndex "462" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_463_467> a nif:Word ;
+    nif:anchorOf "Each" ;
+    nif:beginIndex "463" ;
+    nif:endIndex "467" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_468_480> a nif:Word ;
+    nif:anchorOf "illustration" ;
+    nif:beginIndex "468" ;
+    nif:endIndex "480" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_46_52> a nif:Word ;
+    nif:anchorOf "Graeme" ;
+    nif:beginIndex "46" ;
+    nif:endIndex "52" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_481_489> a nif:Word ;
+    nif:anchorOf "features" ;
+    nif:beginIndex "481" ;
+    nif:endIndex "489" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_490_492> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "490" ;
+    nif:endIndex "492" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_493_499> a nif:Word ;
+    nif:anchorOf "animal" ;
+    nif:beginIndex "493" ;
+    nif:endIndex "499" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_500_504> a nif:Word ;
+    nif:anchorOf "from" ;
+    nif:beginIndex "500" ;
+    nif:endIndex "504" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_505_508> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "505" ;
+    nif:endIndex "508" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_509_515> a nif:Word ;
+    nif:anchorOf "animal" ;
+    nif:beginIndex "509" ;
+    nif:endIndex "515" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_516_523> a nif:Word ;
+    nif:anchorOf "kingdom" ;
+    nif:beginIndex "516" ;
+    nif:endIndex "523" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_524_525> a nif:Word ;
+    nif:anchorOf "(" ;
+    nif:beginIndex "524" ;
+    nif:endIndex "525" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#(> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_525_526> a nif:Word ;
+    nif:anchorOf "A" ;
+    nif:beginIndex "525" ;
+    nif:endIndex "526" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_527_529> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "527" ;
+    nif:endIndex "529" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_530_533> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "530" ;
+    nif:endIndex "533" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_534_543> a nif:Word ;
+    nif:anchorOf "alligator" ;
+    nif:beginIndex "534" ;
+    nif:endIndex "543" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_53_57> a nif:Word ;
+    nif:anchorOf "Base" ;
+    nif:beginIndex "53" ;
+    nif:endIndex "57" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_543_544> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "543" ;
+    nif:endIndex "544" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_545_546> a nif:Word ;
+    nif:anchorOf "B" ;
+    nif:beginIndex "545" ;
+    nif:endIndex "546" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_547_549> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "547" ;
+    nif:endIndex "549" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_550_553> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "550" ;
+    nif:endIndex "553" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_554_563> a nif:Word ;
+    nif:anchorOf "butterfly" ;
+    nif:beginIndex "554" ;
+    nif:endIndex "563" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_563_564> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "563" ;
+    nif:endIndex "564" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_565_568> a nif:Word ;
+    nif:anchorOf "etc" ;
+    nif:beginIndex "565" ;
+    nif:endIndex "568" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#FW> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_568_569> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "568" ;
+    nif:endIndex "569" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_569_570> a nif:Word ;
+    nif:anchorOf ")" ;
+    nif:beginIndex "569" ;
+    nif:endIndex "570" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#)> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_571_576> a nif:Word ;
+    nif:anchorOf "along" ;
+    nif:beginIndex "571" ;
+    nif:endIndex "576" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_577_581> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "577" ;
+    nif:endIndex "581" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_57_58> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "57" ;
+    nif:endIndex "58" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_582_583> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "582" ;
+    nif:endIndex "583" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_584_589> a nif:Word ;
+    nif:anchorOf "short" ;
+    nif:beginIndex "584" ;
+    nif:endIndex "589" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_590_594> a nif:Word ;
+    nif:anchorOf "poem" ;
+    nif:beginIndex "590" ;
+    nif:endIndex "594" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_595_604> a nif:Word ;
+    nif:anchorOf "utilizing" ;
+    nif:beginIndex "595" ;
+    nif:endIndex "604" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_59_61> a nif:Word ;
+    nif:anchorOf "It" ;
+    nif:beginIndex "59" ;
+    nif:endIndex "61" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_605_608> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "605" ;
+    nif:endIndex "608" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_609_615> a nif:Word ;
+    nif:anchorOf "letter" ;
+    nif:beginIndex "609" ;
+    nif:endIndex "615" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_616_618> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "616" ;
+    nif:endIndex "618" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_619_622> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "619" ;
+    nif:endIndex "622" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_623_627> a nif:Word ;
+    nif:anchorOf "page" ;
+    nif:beginIndex "623" ;
+    nif:endIndex "627" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_628_631> a nif:Word ;
+    nif:anchorOf "for" ;
+    nif:beginIndex "628" ;
+    nif:endIndex "631" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_62_65> a nif:Word ;
+    nif:anchorOf "was" ;
+    nif:beginIndex "62" ;
+    nif:endIndex "65" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_632_636> a nif:Word ;
+    nif:anchorOf "many" ;
+    nif:beginIndex "632" ;
+    nif:endIndex "636" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_637_639> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "637" ;
+    nif:endIndex "639" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_640_643> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "640" ;
+    nif:endIndex "643" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_644_649> a nif:Word ;
+    nif:anchorOf "words" ;
+    nif:beginIndex "644" ;
+    nif:endIndex "649" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_649_650> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "649" ;
+    nif:endIndex "650" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_651_654> a nif:Word ;
+    nif:anchorOf "The" ;
+    nif:beginIndex "651" ;
+    nif:endIndex "654" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_655_668> a nif:Word ;
+    nif:anchorOf "illustrations" ;
+    nif:beginIndex "655" ;
+    nif:endIndex "668" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_669_676> a nif:Word ;
+    nif:anchorOf "contain" ;
+    nif:beginIndex "669" ;
+    nif:endIndex "676" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_66_76> a nif:Word ;
+    nif:anchorOf "originally" ;
+    nif:beginIndex "66" ;
+    nif:endIndex "76" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_677_681> a nif:Word ;
+    nif:anchorOf "many" ;
+    nif:beginIndex "677" ;
+    nif:endIndex "681" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_682_687> a nif:Word ;
+    nif:anchorOf "other" ;
+    nif:beginIndex "682" ;
+    nif:endIndex "687" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_688_695> a nif:Word ;
+    nif:anchorOf "objects" ;
+    nif:beginIndex "688" ;
+    nif:endIndex "695" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_696_705> a nif:Word ;
+    nif:anchorOf "beginning" ;
+    nif:beginIndex "696" ;
+    nif:endIndex "705" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_706_710> a nif:Word ;
+    nif:anchorOf "with" ;
+    nif:beginIndex "706" ;
+    nif:endIndex "710" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_711_715> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "711" ;
+    nif:endIndex "715" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_716_722> a nif:Word ;
+    nif:anchorOf "letter" ;
+    nif:beginIndex "716" ;
+    nif:endIndex "722" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_723_727> a nif:Word ;
+    nif:anchorOf "that" ;
+    nif:beginIndex "723" ;
+    nif:endIndex "727" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_728_731> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "728" ;
+    nif:endIndex "731" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_732_738> a nif:Word ;
+    nif:anchorOf "reader" ;
+    nif:beginIndex "732" ;
+    nif:endIndex "738" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_739_742> a nif:Word ;
+    nif:anchorOf "can" ;
+    nif:beginIndex "739" ;
+    nif:endIndex "742" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#MD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_743_746> a nif:Word ;
+    nif:anchorOf "try" ;
+    nif:beginIndex "743" ;
+    nif:endIndex "746" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_747_749> a nif:Word ;
+    nif:anchorOf "to" ;
+    nif:beginIndex "747" ;
+    nif:endIndex "749" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#TO> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_750_758> a nif:Word ;
+    nif:anchorOf "identify" ;
+    nif:beginIndex "750" ;
+    nif:endIndex "758" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_758_759> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "758" ;
+    nif:endIndex "759" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_760_762> a nif:Word ;
+    nif:anchorOf "As" ;
+    nif:beginIndex "760" ;
+    nif:endIndex "762" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_763_765> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "763" ;
+    nif:endIndex "765" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_766_776> a nif:Word ;
+    nif:anchorOf "additional" ;
+    nif:beginIndex "766" ;
+    nif:endIndex "776" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_777_786> a nif:Word ;
+    nif:anchorOf "challenge" ;
+    nif:beginIndex "777" ;
+    nif:endIndex "786" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_77_86> a nif:Word ;
+    nif:anchorOf "published" ;
+    nif:beginIndex "77" ;
+    nif:endIndex "86" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_786_787> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "786" ;
+    nif:endIndex "787" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_788_791> a nif:Word ;
+    nif:anchorOf "the" ;
+    nif:beginIndex "788" ;
+    nif:endIndex "791" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_792_798> a nif:Word ;
+    nif:anchorOf "author" ;
+    nif:beginIndex "792" ;
+    nif:endIndex "798" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_799_802> a nif:Word ;
+    nif:anchorOf "has" ;
+    nif:beginIndex "799" ;
+    nif:endIndex "802" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_803_809> a nif:Word ;
+    nif:anchorOf "hidden" ;
+    nif:beginIndex "803" ;
+    nif:endIndex "809" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_810_811> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "810" ;
+    nif:endIndex "811" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_812_819> a nif:Word ;
+    nif:anchorOf "picture" ;
+    nif:beginIndex "812" ;
+    nif:endIndex "819" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_820_822> a nif:Word ;
+    nif:anchorOf "of" ;
+    nif:beginIndex "820" ;
+    nif:endIndex "822" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_823_830> a nif:Word ;
+    nif:anchorOf "himself" ;
+    nif:beginIndex "823" ;
+    nif:endIndex "830" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#PersonalPronoun>,
+        <http://purl.org/olia/olia.owl#Pronoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#PRP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_831_833> a nif:Word ;
+    nif:anchorOf "as" ;
+    nif:beginIndex "831" ;
+    nif:endIndex "833" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_834_835> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "834" ;
+    nif:endIndex "835" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_836_841> a nif:Word ;
+    nif:anchorOf "child" ;
+    nif:beginIndex "836" ;
+    nif:endIndex "841" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_842_844> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "842" ;
+    nif:endIndex "844" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_845_850> a nif:Word ;
+    nif:anchorOf "every" ;
+    nif:beginIndex "845" ;
+    nif:endIndex "850" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_851_858> a nif:Word ;
+    nif:anchorOf "picture" ;
+    nif:beginIndex "851" ;
+    nif:endIndex "858" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_858_859> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "858" ;
+    nif:endIndex "859" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_861_868> a nif:Word ;
+    nif:anchorOf "Related" ;
+    nif:beginIndex "861" ;
+    nif:endIndex "868" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADJ>,
+        <http://purl.org/olia/olia.owl#Adjective> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#JJ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_869_877> a nif:Word ;
+    nif:anchorOf "products" ;
+    nif:beginIndex "869" ;
+    nif:endIndex "877" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#NounPlural> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNS> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_878_883> a nif:Word ;
+    nif:anchorOf "Julia" ;
+    nif:beginIndex "878" ;
+    nif:endIndex "883" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_87_89> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "87" ;
+    nif:endIndex "89" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_884_890> a nif:Word ;
+    nif:anchorOf "MacRae" ;
+    nif:beginIndex "884" ;
+    nif:endIndex "890" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_891_896> a nif:Word ;
+    nif:anchorOf "Books" ;
+    nif:beginIndex "891" ;
+    nif:endIndex "896" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_897_906> a nif:Word ;
+    nif:anchorOf "published" ;
+    nif:beginIndex "897" ;
+    nif:endIndex "906" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_907_909> a nif:Word ;
+    nif:anchorOf "an" ;
+    nif:beginIndex "907" ;
+    nif:endIndex "909" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_90_94> a nif:Word ;
+    nif:anchorOf "1986" ;
+    nif:beginIndex "90" ;
+    nif:endIndex "94" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_910_918> a nif:Word ;
+    nif:anchorOf "Animalia" ;
+    nif:beginIndex "910" ;
+    nif:endIndex "918" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_919_928> a nif:Word ;
+    nif:anchorOf "colouring" ;
+    nif:beginIndex "919" ;
+    nif:endIndex "928" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_929_933> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "929" ;
+    nif:endIndex "933" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_934_936> a nif:Word ;
+    nif:anchorOf "in" ;
+    nif:beginIndex "934" ;
+    nif:endIndex "936" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#IN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_937_941> a nif:Word ;
+    nif:anchorOf "2008" ;
+    nif:beginIndex "937" ;
+    nif:endIndex "941" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#CD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_941_942> a nif:Word ;
+    nif:anchorOf "." ;
+    nif:beginIndex "941" ;
+    nif:endIndex "942" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#.> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_943_945> a nif:Word ;
+    nif:anchorOf "H." ;
+    nif:beginIndex "943" ;
+    nif:endIndex "945" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_946_948> a nif:Word ;
+    nif:anchorOf "N." ;
+    nif:beginIndex "946" ;
+    nif:endIndex "948" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_949_955> a nif:Word ;
+    nif:anchorOf "Abrams" ;
+    nif:beginIndex "949" ;
+    nif:endIndex "955" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun>,
+        <http://purl.org/olia/olia.owl#ProperNoun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NNP> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_94_95> a nif:Word ;
+    nif:anchorOf "," ;
+    nif:beginIndex "94" ;
+    nif:endIndex "95" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Preposition>,
+        <http://purl.org/olia/olia.owl#preposition> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#,> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_956_960> a nif:Word ;
+    nif:anchorOf "also" ;
+    nif:beginIndex "956" ;
+    nif:endIndex "960" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#ADV>,
+        <http://purl.org/olia/olia.owl#Adverb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#RB> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_961_970> a nif:Word ;
+    nif:anchorOf "published" ;
+    nif:beginIndex "961" ;
+    nif:endIndex "970" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastTense> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBD> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_96_104> a nif:Word ;
+    nif:anchorOf "followed" ;
+    nif:beginIndex "96" ;
+    nif:endIndex "104" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbPastParticiple> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_971_972> a nif:Word ;
+    nif:anchorOf "a" ;
+    nif:beginIndex "971" ;
+    nif:endIndex "972" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#DET>,
+        <http://purl.org/olia/olia.owl#Determiner> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#DT> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_973_977> a nif:Word ;
+    nif:anchorOf "wall" ;
+    nif:beginIndex "973" ;
+    nif:endIndex "977" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_978_986> a nif:Word ;
+    nif:anchorOf "calendar" ;
+    nif:beginIndex "978" ;
+    nif:endIndex "986" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_987_996> a nif:Word ;
+    nif:anchorOf "colouring" ;
+    nif:beginIndex "987" ;
+    nif:endIndex "996" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBG> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_997_1001> a nif:Word ;
+    nif:anchorOf "book" ;
+    nif:beginIndex "997" ;
+    nif:endIndex "1001" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Noun> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#NN> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
+<http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=word_9_11> a nif:Word ;
+    nif:anchorOf "is" ;
+    nif:beginIndex "9" ;
+    nif:endIndex "11" ;
+    nif:oliaCategory <http://purl.org/olia/olia.owl#Verb>,
+        <http://purl.org/olia/olia.owl#VerbSingularPresent> ;
+    nif:oliaLink <http://purl.org/olia/penn.owl#VBZ> ;
+    nif:referenceContext <http://dbpedia.org/resource/Animalia_(book)?dbpv=2016-10&nif=context> .
+
